@@ -1,0 +1,21 @@
+Lista de archivos estáticos para la PWA:
+- favicon.ico
+- index.html
+- site.webmanifest
+- sw.js
+- css/estilos.css
+- js/configura.js
+- js/lib/js/muestraError.js
+- js/lib/ProblemDetails.js
+- js/registraServiceWorkerSiEsSoportado.js
+- img/icono2048.png
+- img/maskable_icon.png
+- img/maskable_icon_x128.png
+- img/maskable_icon_x192.png
+- img/maskable_icon_x384.png
+- img/maskable_icon_x48.png
+- img/maskable_icon_x512.png
+- img/maskable_icon_x72.png
+- img/maskable_icon_x96.png
+- img/screenshot_horizontal.png
+- img/screenshot_vertical.png

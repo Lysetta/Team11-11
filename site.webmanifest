@@ -1,0 +1,78 @@
+{
+    "name": "Equipo 11:11",
+    "short_name": "11:11",
+    "description": "Aplicación web progresiva.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+
+ "screenshots": [
+    {
+     "src": "/img/screenshot_horizontal.png",
+     "sizes": "1980x1194",
+     "type": "image/png",
+     "form_factor": "wide",
+     "label": "PWA"
+    },
+    {
+     "src": "/img/screenshot_vertical.png",
+     "sizes": "986x1506",
+     "type": "image/png",
+     "form_factor": "narrow",
+     "label": "PWA (2)"
+    }
+   ],
+    "icons": [
+
+        {
+            "src": "/img/maskable_icon_x48.png",
+            "sizes": "48x48",
+            "type": "image/png",
+            "purpose": "any"
+           },
+           {
+            "src": "/img/maskable_icon_x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+           },
+        
+           {
+            "src": "/img/maskable_icon_x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+           },
+           {
+            "src": "/img/maskable_icon_x128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any"
+           },
+        {
+            "src": "img/maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/img/maskable_icon_x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+           },
+        {
+            "src": "img/maskable_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/img/maskable_icon.png",
+            "sizes": "2730x2730",
+            "type": "image/png",
+            "purpose": "maskable"
+           }
+    ]
+}
