@@ -10,14 +10,14 @@
  "screenshots": [
     {
      "src": "img/screenshot_horizontal.png",
-     "sizes": "1980x1194",
+     "sizes": "2428x1218",
      "type": "image/png",
      "form_factor": "wide",
      "label": "PWA"
     },
     {
      "src": "img/screenshot_vertical.png",
-     "sizes": "986x1506",
+     "sizes": "970x1318",
      "type": "image/png",
      "form_factor": "narrow",
      "label": "PWA (2)"
